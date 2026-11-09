@@ -1,7 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\carol\\source\\repos\\consoleapplication4\\consoleapplication4\\consoleapplication4.cpp",
+        "Source": "c:\\users\\carol\\source\\repos\\atividades_p1_algoritmo\\consoleapplication4\\consoleapplication4\\consoleapplication4.cpp",
         "ProvidedModule": "",
         "Includes": [
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdio.h",

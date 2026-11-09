@@ -38,7 +38,7 @@ int main()
 		break;
 	case 2:
 		float numero_2;
-		printf("Digite um numero : ");
+		printf("Digite um numero: ");
 		scanf_s("%f", &numero_2);
 
 		if (numero_2 >= 0) {

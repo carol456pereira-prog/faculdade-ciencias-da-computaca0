@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="ConsoleApplication4/ConsoleApplication4/ConsoleApplication4.vcxproj" Id="b8c615ac-3569-4bc4-918c-370b9326e010" />
   <Project Path="ConsoleApplication5/ConsoleApplication5/ConsoleApplication5.vcxproj" Id="e9b92cc4-cb86-4db5-8dbd-1f9784e70b5d" />
   <Project Path="ConsoleApplication6/ConsoleApplication6/ConsoleApplication6.vcxproj" Id="29b22f90-40d3-4db8-82af-443c925838c2" />
