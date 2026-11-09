@@ -1,0 +1,5 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\carol\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(24,4): error C2065: 'media_geral': identificador não declarado
+C:\Users\carol\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(26,59): error C2065: 'media_geral': identificador não declarado
+C:\Users\carol\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(32,1): error C2059: erro de sintaxe: '}'
+C:\Users\carol\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(32,1): error C2143: erro de sintaxe: ';' ausente antes de '}'
