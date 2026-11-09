@@ -1,5 +1,6 @@
 ﻿  ConsoleApplication4.cpp
-C:\Users\carol\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(30,11): warning C4477: 'printf': a cadeia de formato '%f' requer um argumento do tipo 'double', mas um argumento variadic 1 tem o tipo 'int'
-C:\Users\carol\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(33,11): warning C4477: 'printf': a cadeia de formato '%f' requer um argumento do tipo 'double', mas um argumento variadic 1 tem o tipo 'int'
-C:\Users\carol\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(36,11): warning C4477: 'printf': a cadeia de formato '%f' requer um argumento do tipo 'double', mas um argumento variadic 1 tem o tipo 'int'
-  ConsoleApplication4.vcxproj -> C:\Users\carol\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
+C:\Users\carol\source\repos\ConsoleApplication7\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(30,11): warning C4477: 'printf': a cadeia de formato '%f' requer um argumento do tipo 'double', mas um argumento variadic 1 tem o tipo 'int'
+C:\Users\carol\source\repos\ConsoleApplication7\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(33,11): warning C4477: 'printf': a cadeia de formato '%f' requer um argumento do tipo 'double', mas um argumento variadic 1 tem o tipo 'int'
+C:\Users\carol\source\repos\ConsoleApplication7\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(36,11): warning C4477: 'printf': a cadeia de formato '%f' requer um argumento do tipo 'double', mas um argumento variadic 1 tem o tipo 'int'
+  LINK : C:\Users\carol\source\repos\ConsoleApplication7\x64\Debug\ConsoleApplication4.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
+  ConsoleApplication4.vcxproj -> C:\Users\carol\source\repos\ConsoleApplication7\x64\Debug\ConsoleApplication4.exe
