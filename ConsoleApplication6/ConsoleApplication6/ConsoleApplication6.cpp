@@ -6,7 +6,7 @@ int main()
 	float consumo, soma_consumo = 0, media_consumo;
 
 	for (int i = 0; i < 5; i++) {
-		printf("Escreva seu consumo de agua em m³ %d: ", i + 1);
+		printf("Escreva seu consumo de agua em m³ %d:", i + 1);
 		scanf_s("%f", &consumo);
 
 
